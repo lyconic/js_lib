@@ -29,3 +29,4 @@
 //= require "ui/jquery.maskedinput"
 //= require "ui/splitter"
 //= require "ui/facebox"
+//= require "ui/fullcalendar"
