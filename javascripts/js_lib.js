@@ -19,6 +19,7 @@
 //= require "lib/mustache"
 //= require "lib/queue"
 //= require "lib/chainable"
+//= require "lib/persist"
 
 //= require "ui/jquery-ui"
 //= require "ui/jquery.tree"
