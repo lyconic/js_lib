@@ -28,6 +28,7 @@
 //= require "ui/jquery.formbubble"
 //= require "ui/jquery.highlight"
 //= require "ui/jquery.maskedinput"
+//= require "ui/jquery.droptastic"
 //= require "ui/splitter"
 //= require "ui/facebox"
 //= require "ui/fullcalendar"
