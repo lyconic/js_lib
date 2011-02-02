@@ -4,6 +4,7 @@
 //= require "lib/jquery.address"
 //= require "lib/jquery.livequery"
 //= require "lib/jquery.autocomplete"
+//= require "lib/jquery.autogrowtextbox"
 //= require "lib/jquery.livesearch"
 //= require "lib/jquery.maxlength"
 //= require "lib/jquery.rest"
